@@ -35,8 +35,7 @@ with open("weather+{}.cvs".format(filename[:-4]),"w", encoding='utf8') as output
             # Memoize the response if it has been seen before.
             if seen.count((gridX, gridY, gridId)) == 0:
                 seen.append((gridX, gridY, gridId))
-                r = requests.get('https://api.weather.gov/gridpoints/{office}/{gridX},{gridY}/forecast'.format(office = gridId, gridX = gridX, gridY = gridY))
-                data = r.json()
+                data = requests.get('https://api.weather.gov/gridpoints/{office}/{gridX},{gridY}/forecast'.format(office = gridId, gridX = gridX, gridY = gridY)).json()
                 weather = call_api(gridId, gridX, gridY, 0)
                 lookup[str((gridX, gridY, gridId))] = weather
             else:
