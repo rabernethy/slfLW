@@ -1,10 +1,9 @@
 # weather.py
 # Written by Russell Abernethy
-# Date: 06/14/2021
+# Date: 06/15/2021
 # Desc: Takes a csv as input and outputs that csv with the added columns date and mean daily temperature.
 
 import requests, csv
-from time import sleep
 from sys import argv
 
 filename, seen, lookup = argv[1], [], {}
