@@ -1,9 +1,11 @@
 # Weather.py
 
-## Requiremetns:
+## Requiremetns
+
 requests
 
-## How to use:
+## How to use
+
 ```zsh
-$ python3 weather.py 'filename.csv'
+$python3 weather.py 'filename.csv'
 ```

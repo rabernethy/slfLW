@@ -9,16 +9,16 @@ from sys import argv
 filename, seen, lookup = argv[1], [], {}
 fieldnames = ['Latitude','Longitude','Date Refreshed','MDT_0', 'MDT_1', 'MDT_2',  'MDT_3', 'MDT_4', 'MDT_5', 'MDT_6']
 
-def call_api(gridId, gridX, gridY, i):
+def call_api(grid_id, grid_x, grid_y, i):
     maxitr = 5
-    data = requests.get('https://api.weather.gov/gridpoints/{office}/{gridX},{gridY}/forecast'.format(office = gridId, gridX = gridX, gridY = gridY)).json()
+    data = requests.get('https://api.weather.gov/gridpoints/{office}/{gridX},{gridY}/forecast'.format(office = grid_id, gridX = grid_x, gridY = grid_y)).json()
     try:
         return [data['properties']['updated'], (data['properties']['periods'][0]['temperature'] + data['properties']['periods'][1]['temperature'])/2, (data['properties']['periods'][2]['temperature'] + data['properties']['periods'][3]['temperature'])/2, (data['properties']['periods'][4]['temperature'] + data['properties']['periods'][5]['temperature'])/2, (data['properties']['periods'][6]['temperature'] + data['properties']['periods'][7]['temperature'])/2, (data['properties']['periods'][8]['temperature'] + data['properties']['periods'][9]['temperature'])/2, (data['properties']['periods'][10]['temperature'] + data['properties']['periods'][11]['temperature'])/2,  (data['properties']['periods'][12]['temperature'] + data['properties']['periods'][13]['temperature'])/2]
     except KeyError:
         if i < maxitr:
-            return call_api(gridId, gridX,gridY, i+1)
+            return call_api(grid_id, grid_x, grid_y, i+1)
         else:
-            print("Server error, Skipping Entry")
+            print("Server error, skipping entry.")
             return ["Error", "Error", "Error", "Error", "Error", "Error", "Error", "Error"]
 
 with open("weather+{}.csv".format(filename[:-4]),"w", encoding='utf8') as output:
