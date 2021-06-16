@@ -1,6 +1,6 @@
 # weather.py
 # Written by Russell Abernethy
-# Date: 06/16/2021
+# Created: 06/14/2021 | Last Changed: 06/16/2021
 # Desc: Takes a csv as input and outputs that csv with the added columns date and mean daily temperature.
 
 import requests, csv
