@@ -1,0 +1,507 @@
+1623956215497	geckodriver	INFO	Listening on 127.0.0.1:56855
+1623956215521	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilep5IrMa"
+1623956216279	Marionette	INFO	Marionette enabled
+2021-06-17 14:56:57.022 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSButton: 0x120525000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.023 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSButton: 0x12c694c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.024 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSButton: 0x12c692000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.025 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSButton: 0x12c690800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.025 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSButton: 0x12c691c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.026 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c693000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:56:57.026 firefox-bin[43783:3848639] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c88f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilep5IrMa/search.json.mozlz4", (void 0)))
+1623956218325	Marionette	INFO	Listening on port 56860
+1623956218422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956350166	geckodriver	INFO	Listening on 127.0.0.1:57584
+1623956350179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile9KHOmb"
+*** You are running in headless mode.
+1623956350609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile9KHOmb/search.json.mozlz4", (void 0)))
+1623956351648	Marionette	INFO	Listening on port 57589
+1623956351728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956366875	geckodriver	INFO	Listening on 127.0.0.1:57718
+1623956366884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile3HNoUy"
+*** You are running in headless mode.
+1623956367278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile3HNoUy/search.json.mozlz4", (void 0)))
+1623956368486	Marionette	INFO	Listening on port 57723
+1623956368530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956380357	geckodriver	INFO	Listening on 127.0.0.1:57841
+1623956380367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile2uT9Vd"
+1623956380828	Marionette	INFO	Marionette enabled
+2021-06-17 14:59:41.441 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSButton: 0x134c2b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.442 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSButton: 0x134c2bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.442 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSButton: 0x134c2f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.443 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSButton: 0x134c30c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.443 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSButton: 0x134c2fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.444 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134c31000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 14:59:41.444 firefox-bin[43980:3852809] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134e8c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile2uT9Vd/search.json.mozlz4", (void 0)))
+1623956382570	Marionette	INFO	Listening on port 57846
+1623956382657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956563574	geckodriver	INFO	Listening on 127.0.0.1:58702
+1623956563583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileTEd3X3"
+1623956564061	Marionette	INFO	Marionette enabled
+2021-06-17 15:02:44.680 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x12852b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.680 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x134832000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.681 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x13482ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.681 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x13482d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.682 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x134830400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.682 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13482d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:44.683 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134a27c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileTEd3X3/search.json.mozlz4", (void 0)))
+1623956565913	Marionette	INFO	Listening on port 58707
+1623956565967	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:02:47.797 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x128529800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.797 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x12932a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.798 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x132e06c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.798 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x13482b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.799 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSButton: 0x134826000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.799 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134827c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:02:47.800 firefox-bin[44172:3855788] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13fb9c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1623956645732	geckodriver	INFO	Listening on 127.0.0.1:59139
+1623956645741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilelvV6Ku"
+*** You are running in headless mode.
+1623956646155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilelvV6Ku/search.json.mozlz4", (void 0)))
+1623956647243	Marionette	INFO	Listening on port 59144
+1623956647296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956665070	geckodriver	INFO	Listening on 127.0.0.1:59287
+1623956665079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileUCMujN"
+*** You are running in headless mode.
+1623956665479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileUCMujN/search.json.mozlz4", (void 0)))
+1623956666461	Marionette	INFO	Listening on port 59292
+1623956666534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+JavaScript error: resource:///modules/UrlbarUtils.jsm, line 757: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+1623956827992	geckodriver	INFO	Listening on 127.0.0.1:60060
+1623956828001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile7QTzPV"
+*** You are running in headless mode.
+1623956828417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile7QTzPV/search.json.mozlz4", (void 0)))
+1623956829417	Marionette	INFO	Listening on port 60065
+1623956829454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623956848589	geckodriver	INFO	Listening on 127.0.0.1:60209
+1623956848596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileWY7zlm"
+1623956849048	Marionette	INFO	Marionette enabled
+2021-06-17 15:07:29.649 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137eeb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.649 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137eed000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.650 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137eeb800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.650 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137eef400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.651 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137ef1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.651 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137eebc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:29.652 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137fc9400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileWY7zlm/search.json.mozlz4", (void 0)))
+1623956850675	Marionette	INFO	Listening on port 60214
+1623956850782	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:07:32.484 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x12bb2e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.485 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137d0ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.485 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137d0b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.486 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137d0bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.486 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSButton: 0x137d0cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.487 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137d0d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:07:32.487 firefox-bin[44516:3862402] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142f06400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1623957123558	geckodriver	INFO	Listening on 127.0.0.1:61639
+1623957123572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileYmoq9c"
+1623957124058	Marionette	INFO	Marionette enabled
+2021-06-17 15:12:04.677 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x12be3b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.677 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x13808e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.678 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x138091800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.678 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x13808e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.679 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x138091c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.679 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13808fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:04.680 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1382e4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileYmoq9c/search.json.mozlz4", (void 0)))
+1623957126261	Marionette	INFO	Listening on port 61648
+1623957126359	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:12:07.743 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x1189a6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.743 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x12ccde000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.744 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x13808f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.744 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x138090000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.745 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSButton: 0x138090800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.745 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138094c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:07.745 firefox-bin[44693:3865744] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x142fa2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1623957159824	geckodriver	INFO	Listening on 127.0.0.1:61866
+1623957159835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile3J5i7J"
+1623957160284	Marionette	INFO	Marionette enabled
+2021-06-17 15:12:40.876 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130793400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.876 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130790400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.877 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130790c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.877 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x1309ce800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.878 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x1309cec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.878 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1309cc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:40.879 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1309d4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile3J5i7J/search.json.mozlz4", (void 0)))
+1623957161988	Marionette	INFO	Listening on port 61871
+1623957162005	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:12:44.191 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x1254f0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.191 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x12ee64400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.191 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130794400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.192 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130792c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.193 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSButton: 0x130794c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.193 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13078f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:12:44.194 firefox-bin[44717:3866507] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13b6cf000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1623957325489	geckodriver	INFO	Listening on 127.0.0.1:62639
+1623957325500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilejLz5gg"
+1623957325992	Marionette	INFO	Marionette enabled
+2021-06-17 15:15:26.601 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSButton: 0x12ba91400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.601 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSButton: 0x12ba92800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.602 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSButton: 0x12ba91800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.602 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSButton: 0x12ba91c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.603 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSButton: 0x12ba94400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.603 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ba94c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:15:26.604 firefox-bin[44867:3868893] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12bce2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilejLz5gg/search.json.mozlz4", (void 0)))
+1623957327780	Marionette	INFO	Listening on port 62644
+1623957327882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623957377810	geckodriver	INFO	Listening on 127.0.0.1:62932
+1623957377819	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilePmvucF"
+1623957378271	Marionette	INFO	Marionette enabled
+2021-06-17 15:16:18.852 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSButton: 0x1358da800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.852 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSButton: 0x1358ddc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.853 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSButton: 0x1358dfc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.853 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSButton: 0x1358dac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.854 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSButton: 0x1358dcc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.854 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1358db400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:16:18.855 firefox-bin[44927:3869965] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1359c1400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilePmvucF/search.json.mozlz4", (void 0)))
+1623957379976	Marionette	INFO	Listening on port 62937
+1623957380009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623957399105	Marionette	INFO	Stopped listening on port 56860
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957401824	Marionette	INFO	Stopped listening on port 57846
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957404194	Marionette	INFO	Stopped listening on port 58707
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957405825	Marionette	INFO	Stopped listening on port 60214
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957408362	Marionette	INFO	Stopped listening on port 61648
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957410456	Marionette	INFO	Stopped listening on port 62644
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957412850	Marionette	INFO	Stopped listening on port 62937
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957415023	Marionette	INFO	Stopped listening on port 61871
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623957591985	geckodriver	INFO	Listening on 127.0.0.1:63917
+1623957591996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileVNrz1I"
+1623957592411	Marionette	INFO	Marionette enabled
+2021-06-17 15:19:53.006 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x1299d4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.007 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x135478000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.008 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x135479800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.008 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x135484400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.009 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x13547d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.009 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135484c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:53.010 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1284c5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileVNrz1I/search.json.mozlz4", (void 0)))
+1623957594121	Marionette	INFO	Listening on port 63922
+1623957594172	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:19:55.822 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x126c2b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.822 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x1299d2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.823 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x12aaae000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.823 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x13547a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.824 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSButton: 0x13547c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.824 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135475c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:19:55.825 firefox-bin[45092:3873026] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x140a8f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1623957720545	geckodriver	INFO	Listening on 127.0.0.1:64558
+1623957720553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileQnnNzf"
+1623957720970	Marionette	INFO	Marionette enabled
+2021-06-17 15:22:01.620 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x124c3fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.620 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13188d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.621 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x131889c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.621 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13188dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.622 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13188e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.622 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13188f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:01.623 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131c02800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileQnnNzf/search.json.mozlz4", (void 0)))
+1623957722662	Marionette	INFO	Listening on port 64567
+1623957722723	Marionette	WARN	TLS certificate errors will be ignored for this session
+2021-06-17 15:22:04.497 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x1260db000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.498 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x131880800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.498 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13188a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.499 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13c287400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.499 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x13c75b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.500 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c759c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:04.500 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13cfc3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+2021-06-17 15:22:36.446 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x112367400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.446 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x124c44c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.447 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x124e4b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.448 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x126052c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.448 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSButton: 0x17e05f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.449 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x17e07c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-06-17 15:22:36.450 firefox-bin[45169:3874774] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x17e546c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1624225849141	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileUCMujN/bookmarkbackups/bookmarks-2021-06-17_11_KUw1Ql1XkXt51ZIBvn0Osw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile9KHOmb/bookmarkbackups/bookmarks-2021-06-17_11_rPj9tygQWVTEdO40cSxSkw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofilelvV6Ku/bookmarkbackups/bookmarks-2021-06-17_11_koEwSvSFhjKLuS+H1qXztQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileVNrz1I/bookmarkbackups/bookmarks-2021-06-17_11_r0yTZaliD+f9r62l0v0ZXA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile3HNoUy/bookmarkbackups/bookmarks-2021-06-17_11_CZQ6uxxDlGWfNuFpDJzEcw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofile7QTzPV/bookmarkbackups/bookmarks-2021-06-17_11_FLMRlb7LrjiUoYT9fyVW6g==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/x9/fhjdr7q171v68_4hs9g3xqk00000gn/T/rust_mozprofileQnnNzf/bookmarkbackups/bookmarks-2021-06-17_11_W2ITh8yOLCGu4TPOwURGNQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 299: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 299: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 299: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 299: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1624283979596	Marionette	INFO	Stopped listening on port 64567
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1624283981744	Marionette	INFO	Stopped listening on port 63922
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
