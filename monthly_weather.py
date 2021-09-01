@@ -2,6 +2,15 @@ import requests, csv, re
 from bs4 import BeautifulSoup
 from sys import argv
 
+'''
+Input CSV Requirements:
+
+Header : "Full Address"
+    - The entries only have to contain
+      ZIP codes for the script to work.
+'''
+
+
 filename, url, mask = argv[1], 'https://weather.com/weather/monthly/l/{zip}', '^[a-zA-Z]+'
 fieldnames = ['Full Address','D1D','D1H','D1L','D2D','D2H','D2L',
               'D3D','D3H','D3L','D4D','D4H','D4L',
@@ -35,8 +44,14 @@ with open("monthly_weather_{}.csv".format(filename[:-4]),"w", encoding='utf8') a
             for b in soup.findAll('button'):
                 if str(b).find('tempLow') > 0 and b.find:      # find all the <Button>'s that have temperature information in them.
                     data.append(str(b)[str(b).index('data-id="calendar-')+18:str(b).index('data-id="calendar-')+23].replace('"','')) # date information
-                    data.append(re.sub(mask,"",b.get_text()[-6:-1])[:re.sub(mask,"",b.get_text()[-6:-1]).index("°")]) # temp high
-                    data.append(re.sub(mask,"",b.get_text()[-6:-1])[re.sub(mask,"",b.get_text()[-6:-1]).index("°") + 1:]) # temp low
+                    try:
+                        data.append(re.sub(mask,"",b.get_text()[-6:-1])[:re.sub(mask,"",b.get_text()[-6:-1]).index("°")]) # temp high
+                    except ValueError as e:
+                        data.append("error")
+                    try:
+                        data.append(re.sub(mask,"",b.get_text()[-6:-1])[re.sub(mask,"",b.get_text()[-6:-1]).index("°") + 1:]) # temp low
+                    except ValueError as e:
+                        data.append("error")
             writer.writerow({'Full Address': row['Full Address'], 'D1D': data[0],'D1H':data[1], 'D1L': data[2], \
                 'D2D': data[3],'D2H':data[4], 'D2L': data[5], 'D3D': data[6],'D3H':data[7], 'D3L': data[8], \
                 'D4D': data[9],'D4H':data[10], 'D4L': data[11], 'D5D': data[12],'D5H':data[13], 'D5L': data[14], \
